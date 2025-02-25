@@ -9,13 +9,6 @@ from Cuenta import Cuenta
 class Main:
     pass
 
-mensajeBienvenida = "Bienvenid@" 
-menu = Menu(mensajeBienvenida)
-menu.darBienvenida()
-
-cliente1 = Cliente("nombre", "direccion", "edad")
-cliente1.imprimirDetalles() 
-
 cuenta1 = Cuenta(7000, "tipo", "nombre")
 cuenta1.imprimirDetalles()
 cuenta1. retirar(400)
