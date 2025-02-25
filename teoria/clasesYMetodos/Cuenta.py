@@ -1,5 +1,5 @@
 #Fecha: 24 de febrero de 2025
-#@version: 1.1
+#@version: 1.2
 #@author: Samuel Vera
 #En esta clase se almacenan los atributos y los procesos de la cuenta.
 
